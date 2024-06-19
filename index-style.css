@@ -1,0 +1,67 @@
+body{
+    color: green;
+    font-size: 30px;
+    font-family: "Roboto Condensed", sans-serif;
+    background-image: url('assets/image/index.jpg')
+}
+
+h1{
+    color: rgb(42, 3, 110)
+}
+
+table{
+    font-size: 30px;
+    border-width: 2px;
+    border-collapse: black solid 4px;
+    padding: 0px 50px 0px 50px;
+    margin: 50px 0px 50px 350px;
+}
+
+caption{
+    background-color: rgb(255, 255, 255);
+    border: black solid 4px;
+    padding: 10px;
+}
+
+a{
+    color: inherit;
+    text-decoration: none;
+}
+
+ul{
+    list-style-type: none;
+    display: flex;
+}
+
+li{
+    margin: 10px 200px 0px 0px;
+}
+
+div{
+    display: flex;
+    justify-content: center;
+    color: orangered;
+}
+
+.table1{
+    color: rgb(4, 4, 120);
+}
+
+.table{
+    color: rgb(4, 4, 120);
+}
+
+.table.container{
+    display: flex;
+    justify-content: center;
+}
+
+.indexbutton{
+    color:cornflowerblue;
+}
+
+.footer{
+    font-size: 30px;
+    color:darkorchid;
+    text-align: center;
+}

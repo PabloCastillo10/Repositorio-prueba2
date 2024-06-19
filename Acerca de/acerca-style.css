@@ -1,0 +1,41 @@
+body {
+    color: rgb(0, 0, 0);
+    font-size: 30px;
+    font-family: "Roboto Condensed", sans-serif;
+    background-image: url('assets/image/index.jpg');
+  }
+
+  
+  
+  h1 {
+    color: rgb(0, 0, 0);
+  }
+  
+  table {
+    font-size: 30px;
+    border-width: 2px  rgb(12, 0, 148);
+    border-collapse: rgb(12, 0, 148) 2px;
+    padding: 0px 50px 0px 50px;
+    margin: 20px ; 
+  }
+  
+  caption {
+    background-color: rgb(12, 0, 148);
+    border: 2px  rgb(12, 0, 148);
+    padding: 10px;
+  }
+  
+  div {
+    display: flex;
+    justify-content: center;
+    color: orangered;
+  }
+  
+  .table-container {
+    display: flex;
+    justify-content: center;
+  }
+  
+  .table1,.table2,.table3 {
+    color: rgb(0, 0, 0);
+  }
